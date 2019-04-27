@@ -1,2 +1,2 @@
 # LudumDare44
-My ludumdare 44 entry
+My ludum dare 44 entry
